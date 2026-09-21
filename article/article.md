@@ -141,3 +141,12 @@ Everything is reproducible. Clone it, run it, tell me where I'm wrong.
 ---
 
 *Claudia G. Petersen writes about the numbers underneath the things people say with great confidence.*
+
+xoxo
+Claudia
+
+---
+
+bmac
+
+---
